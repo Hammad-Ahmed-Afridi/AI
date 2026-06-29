@@ -70,4 +70,9 @@
   the closely related words like the bank was muddy becasue of river the traditinal model would look at it and
   wonder which bank it is refereing to but transformrs made model equipped with looking it as a whole and make
   patterns NLP computer vission text to speech speech to text cloud computing edge computing
+- rag is basically an ai model that is connected to a proprietary database have data in it to a specific user and
+  when query or prompt is given it finds the answer from the dataset it is trained on and also use the database
+  as the second source of knowledge and then combine both the findings in a structured unique and to the specific
+  need output that is custom to that user as well they reduce hallucination the database is also up to data and
+  also the data is acuurate and relevant
 - 
