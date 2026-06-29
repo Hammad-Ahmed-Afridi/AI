@@ -80,3 +80,8 @@
   reducing unethical or dangeours outcomes so that the ai system becomes responsible energy consumption should
   be reduced by using renewable energy resources for data centres and using energy and money efficient training
   algorithms and methods
+- ai models hallucinate that is creating fabricated outputs that are not factual or the outputs are wrong and this
+  happens because of data quality or the prompts are not detailed or providing context context are the details
+  for ai models so that it can generate great outputss context window is the maximum amount of text measured in
+  tokens the model can process at once
+- 
