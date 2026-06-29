@@ -59,4 +59,15 @@
   is diffusion model for image generation models te foundational model is diffusion model and for text models we have
   foundational models as large language models and in modern times both these foundational models acts as base models
   for the multimoodels architecture we have llms vision audio diffusion models
+- ai agents collects and process analyze data make decisions take actions independently without human
+  intervention and produce desired outputs and ggoals set by humans and learns from its actions they reason and
+  act using tools by calling and using them whe needed
+- then we have transformers that are complex deep learning neural networks that came into existance after the
+  paper of attention is all you need came out which changed the way models were trained before models used to
+  go through a line word after word and because of it it could not make patters and made recognitions in between
+  words that were far apart in a document but after transformers came what happened is instead of taking in word
+  after word in sequence the model looked at the document or chunk as a whole and matched the patterns between
+  the closely related words like the bank was muddy becasue of river the traditinal model would look at it and
+  wonder which bank it is refereing to but transformrs made model equipped with looking it as a whole and make
+  patterns NLP computer vission text to speech speech to text cloud computing edge computing
 - 
