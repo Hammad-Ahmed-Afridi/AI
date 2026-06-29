@@ -84,4 +84,4 @@
   happens because of data quality or the prompts are not detailed or providing context context are the details
   for ai models so that it can generate great outputss context window is the maximum amount of text measured in
   tokens the model can process at once
-- 
+- deepfakes guardrails ai governance rules and guideline black box models white box models
