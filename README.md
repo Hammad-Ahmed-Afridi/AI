@@ -1,5 +1,5 @@
 # AI
-## Introduction to AI course by IBM
+## Introduction to AI by IBM
 - artificial intelligence term coined by john macarthy who is father of ai geoffrey hinton godfather
   then we have alan turing who created the turing test for checking the intelligence of a
   computer by keeping a human and a computer behind a wall and another human tries talking with
@@ -39,3 +39,24 @@
   human feedback rlhf reinforcement learning from human feedback
 - cognitive computing basically mimic human cognitive abilities these mimics are done by machines that uses
   algorithms to do such tasks 
+- Artificial Intelligence includes Machine Learning and then Deep Learning While AI and DL rely on neural networks
+  traditional machine learning algorithms and mathematical formulas instead of nodes interconnected together All
+  these domains can input datasets and learn through supervised learning, unsupervised learning, or reinforcement
+  learning to find patterns, hidden details, and give outputs. Machine learning uses algorithms to ingest datasets
+  that are often labeled by humans using them as a base to recognize patterns and make predictions on new data and
+  it is highly effective for smaller, structured datasets. When machine learning does use a neural network, it is
+  a shallow network with only 1 to 2 hidden layers between the input and output utilizing forward propagation to
+  pass data and backpropagation to learn from errors. In contrast, deep learning features deep neural networks
+  with many hidden layers between the input and output. If a deep learning model is given a massive dataset that
+  is not labeled by humans, it still successfully ingests it, automatically extracts complex features, and
+  independently finds hidden patterns and recognitions.
+- Neural networks are basically a collection of artificial neurons called nodes connected together mimicking the
+  brain that take in large datasets and train on them using mathematical algorithms to find hidden patterns and
+  recognitions.
+- unimodel a model taking input and giving same output and multimodel taking input in multiple form and giving
+  output in multiple forms also we have foundational model which is the base model and other useful models are made
+  from it using machine learning and deep learning finetuning etc for image generation models te foundational model
+  is diffusion model for image generation models te foundational model is diffusion model and for text models we have
+  foundational models as large language models and in modern times both these foundational models acts as base models
+  for the multimoodels architecture we have llms vision audio diffusion models
+- 
