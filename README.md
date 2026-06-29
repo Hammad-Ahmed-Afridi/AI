@@ -75,4 +75,8 @@
   as the second source of knowledge and then combine both the findings in a structured unique and to the specific
   need output that is custom to that user as well they reduce hallucination the database is also up to data and
   also the data is acuurate and relevant
-- 
+- biased models because of training data personnel data should not be collected or used for training model and if
+  so the company should be transparentabout it due to modern autonomous systems human should be in the loop for
+  reducing unethical or dangeours outcomes so that the ai system becomes responsible energy consumption should
+  be reduced by using renewable energy resources for data centres and using energy and money efficient training
+  algorithms and methods
