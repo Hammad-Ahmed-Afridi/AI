@@ -1,6 +1,6 @@
 # AI
 ## Introduction to AI by IBM
-- artificial intelligence term coined by john macarthy who is father of ai geoffrey hinton godfather
+- artificial intelligence term coined by john macarthy who is father of ai geoffrey hinton father
   then we have alan turing who created the turing test for checking the intelligence of a
   computer by keeping a human and a computer behind a wall and another human tries talking with
   them both having similar statements and the if the output do not distinguish from each other
