@@ -1,4 +1,4 @@
-# AI
+# Coursera
 ## Introduction to AI by IBM
 - artificial intelligence term coined by john macarthy who is father of ai geoffrey hinton father
   then we have alan turing who created the turing test for checking the intelligence of a
